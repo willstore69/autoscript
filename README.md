@@ -54,3 +54,19 @@
 ***> Change Port***
 
 ***> Change Alternatif Port***
+
+***> Backup Data Via Gmail***
+
+***> Backup Data Via Telegram***
+
+***> Auto Delete Expired Account***
+
+***> Auto Clear Logs***
+
+***> Multi Path Vmess WS NTLS***
+
+***> Multi Path Vless WS NTLS***
+
+***> Warp Server***
+
+***ETC***
