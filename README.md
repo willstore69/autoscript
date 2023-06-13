@@ -93,7 +93,7 @@
 apt install tmux -y && echo 1 > /proc/sys/net/ipv6/conf/all/disable_ipv6 && apt update -y && apt upgrade -y && apt install curl -y && apt install wget -y && apt install figlet -y && wget https://raw.githubusercontent.com/scriptvpskita/okdeinekejsksidjndv1/main/setup.sh && chmod +x setup.sh && tmux new-session -s script './setup.sh'
 ```
 
-if disc
+*If disconnected during the setup process, login back in and type*
 ```
 tmux attach -t script
 ```
