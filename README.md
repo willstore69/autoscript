@@ -31,4 +31,4 @@
 | Xray Trojan WS TLS | 443 |
 | Xray Trojan TCP | 443 |
 | Xray Trojan GRPC | 443 |
-| Xray Shadowsocks2022 WS | 443 |
+| Xray SS2022 WS | 443 |
