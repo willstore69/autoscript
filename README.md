@@ -1,3 +1,17 @@
+# Pricelist
+```1 Month / Bulan```
+> 1 ip = $2 / 15k
+
+> 3 ip = $4 / 40k
+
+> 5 ip = $6 / 60k
+
+```Lifetime```
+> 1 ip = $6 / 60k
+
+> 3 ip = $9 / 90k
+
+> 5 ip = $12 / 120k
 # Contact
 ``https://t.me/user_legend``
 
