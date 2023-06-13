@@ -33,3 +33,24 @@
 | Xray Trojan TCP | 443 |
 | Xray Trojan GRPC | 443 |
 | Xray SS2022 WS | 443 |
+
+# Feature
+***> Add Account***
+
+***> Delete Account***
+
+***> Renew Account***
+
+***> Cek User Login***
+
+***> Cek Quota Usage [Xray Only]***
+
+***> AutoKill Multi Login SSH***
+
+***> Free Subdomain For Pointing***
+
+***> Change Domain***
+
+***> Change Port***
+
+***> Change Alternatif Port***
