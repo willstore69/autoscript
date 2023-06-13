@@ -14,6 +14,7 @@
 | OpenVPN UDP | 2200 |
 | OpenVPN SSL | 442 |
 | OpenVPN WS HTTP | 2095 |
+| SSH Dropbear | 109, 143, 443 |
 | SSH Stunnel5 | 443 |
 | SSH WS HTTP | 80, 8080, 2082, 2086, 2052 |
 | SSH WS HTTPS | 443 |
