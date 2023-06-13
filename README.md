@@ -59,7 +59,7 @@
 
 ***> Cek Quota Usage [Xray Only]***
 
-***> AutoKill Multi Login SSH***
+***> Auto Kill Multi Login SSH***
 
 ***> Free Subdomain For Pointing***
 
