@@ -20,7 +20,7 @@
 > 
 > debian 10
 
-# list default of port
+# list default port
 |   Services    |   PORT   |
 | :--- | :--- |
 | Open SSH | 22, 443 |
