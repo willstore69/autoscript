@@ -21,7 +21,7 @@
 > debian 10
 
 # list default port
-|   Services    |   PORT   |
+|```   Services    ```|```   PORT   ```|
 | :--- | :--- |
 | Open SSH | 22, 443 |
 | OpenVPN TCP | 1194, 443 |
