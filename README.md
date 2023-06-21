@@ -88,12 +88,9 @@
 ![20230613_182611](https://github.com/willstore69/autoscript/assets/107354006/bbc72f7b-2508-45a5-a83a-9f6528eb2e4a)
 ![20230613_182641](https://github.com/willstore69/autoscript/assets/107354006/9de1d272-2f4f-4b39-b8b5-d27383786df9)
 
-# Setup
-```
-apt install tmux -y && echo 1 > /proc/sys/net/ipv6/conf/all/disable_ipv6 && apt update -y && apt upgrade -y && apt install curl -y && apt install wget -y && apt install figlet -y && wget https://raw.githubusercontent.com/scriptvpskita/okdeinekejsksidjndv1/main/setup.sh && chmod +x setup.sh && tmux new-session -s script './setup.sh'
-```
+# Setup Your Own IP
 
-*If disconnected during the setup process, login back and type*
-```
-tmux attach -t script
-```
+*If you are interested in unlimited IP and lifetime, you can register your own IP without waiting for me*
+
+for more information see
+```https://github.com/willstore69/scvps-resseler-bot```
