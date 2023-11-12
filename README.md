@@ -61,6 +61,8 @@
 
 ***> Auto Kill Multi Login SSH***
 
+***> Auto Ban Multi Login XRAY***
+
 ***> Free Subdomain For Pointing***
 
 ***> Change Domain***
