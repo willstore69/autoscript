@@ -61,7 +61,13 @@
 
 ***> Auto Kill Multi Login SSH***
 
+***> Auto Ban Multi Login SSH***
+
+**> Unban Multi Login SSH**
+
 ***> Auto Ban Multi Login XRAY***
+
+**> Unban Multi Login XRAY**
 
 ***> Free Subdomain For Pointing***
 
