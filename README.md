@@ -31,6 +31,7 @@
 | SSH Dropbear | 109, 143, 443 |
 | SSH Stunnel5 | 443 |
 | SSH WS HTTP | 80, 8080, 2082, 2086, 2052 |
+| OVPN WS HTTP | 80, 8080, 2082, 2086, 2095 |
 | SSH WS HTTPS | 443 |
 | Squid Proxy | 3128 |
 | Badvpn or UDPGW | 7100, 7200, 7300 |
