@@ -94,8 +94,9 @@
 
 ***ETC***
 
-![20230613_182611](https://github.com/willstore69/autoscript/assets/107354006/bbc72f7b-2508-45a5-a83a-9f6528eb2e4a)
-![20230613_182641](https://github.com/willstore69/autoscript/assets/107354006/9de1d272-2f4f-4b39-b8b5-d27383786df9)
+![20231212_231347](https://github.com/willstore69/autoscript/assets/107354006/93f69b13-28c6-4d1b-9d6b-ff9403a5ca1e)
+![20231212_231349](https://github.com/willstore69/autoscript/assets/107354006/66fdb29a-a10b-4a37-a1b2-55e78692644e)
+
 
 # Setup Your Own IP
 
