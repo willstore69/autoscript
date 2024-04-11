@@ -38,10 +38,14 @@
 | Nginx | 81, 8081 |
 | Xray Vmess WS TLS | 443 |
 | Xray Vmess WS NTLS | 80, 8080, 2082, 2086, 69, 55 |
+| Xray Vmess HTTPUPGRADE TLS | 443 |
+| Xray Vmess HTTPUPGRADE NTLS | 80, 8080, 2082, 2086, 69, 55 |
 | Xray Vmess TCP | 443 |
 | Xray Vmess GRPC | 443 |
 | Xray Vless WS TLS | 443 |
 | Xray Vless WS NTLS | 8880 |
+| Xray Vless HTTPUPGRADE TLS | 443 |
+| Xray Vless HTTPUPGRADE NTLS | 80, 8080, 2082, 2086, 69, 55 |
 | Xray Vless XTLS | 443 |
 | Xray Vless GRPC | 443 |
 | Xray Trojan WS TLS | 443 |
