@@ -16,9 +16,9 @@
 ``https://t.me/user_legend``
 
 # Os Support
-> ubuntu 18.04, 20.04
+> ubuntu 18.04 or higher
 > 
-> debian 10
+> debian 10 or higher
 
 # list default port
 |```   Services    ```|```   PORT   ```|
