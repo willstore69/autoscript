@@ -49,6 +49,7 @@
 | Xray Vless XTLS | 443 |
 | Xray Vless GRPC | 443 |
 | Xray Trojan WS TLS | 443 |
+| Xray Trojan HTTPUPGRADE TLS | 443 |
 | Xray Trojan TCP | 443 |
 | Xray Trojan GRPC | 443 |
 | Xray SS2022 WS | 443 |
